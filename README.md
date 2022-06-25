@@ -7,14 +7,4 @@ The latest version of VMProtect Ultimate is Cracked / Leaked.
 ---
 ![VMP](https://user-images.githubusercontent.com/62977195/175781075-c15b58fb-99c9-4c4c-9704-b84467b5a431.png)
 ---
-What's new in VMProtect 3.6:
-
-[*] .NET: Improved renaming of virtual methods
-[*] .NET: Fixed a bug that occurred inside finally blocks of virtualized methods
-[*] Mach-O: Improved support of macOS 12 Monterey
-[*] PE: Improved antidebug
-[+] .NET: Added support of volatile and calli
-[+] PE: Added support of Windows for ARM (for Intel binaries only)
-[+] PE: Improved support of WINE
-[+] PE: Added support of MAP files for Free Pascal and MinGW
-[+] Added the ability to create segments with random symbols using mask ‘?’
+[What's new in VMProtect 3.6?](https://vmpsoft.com/20220324/vmprotect-3-6/)
