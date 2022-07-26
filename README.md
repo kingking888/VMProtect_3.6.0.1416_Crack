@@ -1,4 +1,4 @@
-# VMProtect_3.6.0.1416 
+# VMProtect 3.6.0.1416 
 
 The latest version of VMProtect Ultimate is Cracked / Leaked.
 
