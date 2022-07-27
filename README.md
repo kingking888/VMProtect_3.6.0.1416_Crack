@@ -9,5 +9,3 @@ Use 7-Zip to extract it properly.
 |:------------- |:-------------:|:-------------:|:-------------:| -------------:|
 ---
 ![VMP](https://user-images.githubusercontent.com/62977195/175781075-c15b58fb-99c9-4c4c-9704-b84467b5a431.png)
----
-[What's new in VMProtect 3.6?](https://vmpsoft.com/20220324/vmprotect-3-6/)
